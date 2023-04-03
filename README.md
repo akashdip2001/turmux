@@ -3,26 +3,27 @@ Turmux all comments
 
 # You should run these commands if you are a first time user
 
-1:pkg update
+```$: pkg update
 
-2:pkg upgrade
+$: pkg upgrade
 
-3:apt update
+$: apt update
 
-4:apt upgrade
+$: apt upgrade
 
-5:pkg install python
+$: pkg install python
 
-6:pkg install python2
+$: pkg install python2
 
-7:pkg install git
+$: pkg install git
 
-8:pkg install nano
+$: pkg install nano
 
-9:pkg install php
+$: pkg install php
 
-10:pkg install curl
+$: pkg install curl
 
-11:pkg install openssh
+$: pkg install openssh
 
-12: termux-setup-storage
+$: termux-setup-storage
+```
