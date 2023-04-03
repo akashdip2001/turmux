@@ -3,7 +3,8 @@ Turmux all comments
 
 # You should run these commands if you are a first time user
 
-```$: pkg update
+```
+$: pkg update
 
 $: pkg upgrade
 
