@@ -27,3 +27,28 @@ $: pkg install openssh
 
 $: termux-setup-storage
 ```
+# kali Linux install 
+```
+- apt update
+
+- apt upgrade
+
+- termux-setup-storage
+
+- apt install wget
+
+- wget -O install-nethunter-termux https://offs.ec/2MceZWr
+
+- chmod +x install-nethunter-termux
+
+- ./install-nethunter-termux
+```
+# starting Kali Linux 
+```
+- nh 
+$: sudo su 
+password: kali 
+
+#: sudo apt update 
+#: sudo apt upgrade 
+```
